@@ -1,4 +1,4 @@
-# Slava Shyharenko
+# Vyacheslav Shyharenko
 
 Hi there 👋 I'm a frontend developer who enjoys turning ideas into clean, interactive web interfaces.
 
