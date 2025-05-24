@@ -13,7 +13,7 @@ Hi there 👋 I'm a frontend developer who enjoys turning ideas into clean, inte
 ### A few projects I’ve worked on
 - 🌿 **[GreenHarvest](https://github.com/vyacheslav-shyharenko/GreenHarvest)** — a team project where I focused on layout, form validation, and Git collaboration
 - 🖼️ **[Gallery](https://github.com/vyacheslav-shyharenko/Gallery)** — an experiment with CSS Grid and adaptive image layout
-- 💻 **[WebStudio](https://github.com/vyacheslav-shyharenko/WebStudio)** — my first full static site, where I learned the power of clean HTML & CSS
+- 💻 **[WebStudio](https://github.com/vyacheslav-shyharenko/WebStudio)** — my first full static site, where I learned the power of clean HTML & CSS & SCSS
 
 ### A bit about me
 I value structure, clarity, and speed. I used to manage teams at McDonald's, where I learned to stay calm and solve problems fast — now I bring that same mindset to code.
